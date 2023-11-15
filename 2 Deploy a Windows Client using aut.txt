@@ -1,0 +1,15 @@
+2 Deploy a Windows Client using autopilot
+
+Exercise :- Configure Microsoft 365 Tenant for an autopilot deployment
+
+Learning Outcomes
+	
+	- Create a deployment profile for an autopilot deployment
+
+Exercise :- Create and configure a device for an autopilot deployment
+
+Learning Outcomes 
+
+	- Create a virtual machine
+	- Obtain and import the hardware ID for the autopilot deployment 
+	- Deploy a widnows device with autopilot

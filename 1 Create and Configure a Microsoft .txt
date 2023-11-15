@@ -1,0 +1,8 @@
+1 Create and Configure a Microsoft 365 Account
+
+Exercise :- Create and Configure a Microsoft 365 Trial Account 
+
+Learning outcomes 
+
+	- Create a Microsoft 365 Trial Account
+	- Configure a Microsoft 365 Trial Account
