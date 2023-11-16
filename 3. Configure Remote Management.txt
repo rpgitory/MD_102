@@ -1,0 +1,19 @@
+3 Configure Remote Management
+
+Exercise :- Configure the windows admin center
+	
+Learning Outcomes
+	- Clear out the microsoft 365 subcription 
+	- Install the windows admin center
+	- Configure the windows admin center
+
+Windows Admin Center
+	: Manage your windows clients, server and clusters without needing to connect to the cloud.
+
+
+Exercise :- Configure Remote Help in Intune
+
+Learning Outcomes
+	- Enable remote help in the Microsoft Intune Admin Center
+	- Enroll a Device to Remote Help in Intune
+

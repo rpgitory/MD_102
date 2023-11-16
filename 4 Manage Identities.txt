@@ -1,0 +1,15 @@
+4 Manage Identities
+
+Exercise :- Register a Deice in Microsoft Entra
+
+Learning Outcomes
+	- Clear out the Microsoft 365 Subcription 
+	- Create a user using Microsoft Entra
+	- Join a device to Microsoft Entra
+	- Implement a local adminstrator password solution (LAPS)
+	- Verify the LAPS policy
+
+Microsoft Entra 
+	: Known as Azure AD which can be used to manage user and devices for a company.
+	: Microsoft Entra is used to assign specific roles to user. this is known as role based access control (RBAC).
+	: Several different roles can be assigned to users in the organization like global administrator, global reader
