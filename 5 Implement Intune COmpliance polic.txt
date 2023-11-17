@@ -1,0 +1,10 @@
+5 Implement Intune Compliance policies
+
+Exercise :- Create and validate an Intune Compliance policy
+
+Learning Outcomes 
+	- clear the Microsoft 365 subcriptiom
+	- Create an Intune Compliance policy
+	- Applu and verify an Intune Compliance policy
+	- Test an Intune Compliance policy
+

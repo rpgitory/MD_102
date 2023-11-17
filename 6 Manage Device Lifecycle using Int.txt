@@ -1,0 +1,11 @@
+6 Manage Device Lifecycle using Intune 
+
+Exercise :- Cinfigure Windows Enrollment using Intune
+
+Learning Outcomes 
+	- Clear the Microsoft 365 Subcription
+	- Enroll and Manage a windows device bring your own device (BYOD)
+	- Enroll and Manage a company-owned windows device
+
+	
+	- After the device was deleted from the Entra portal, the account needs to be reauthenticated to access the assigned resources if the device is lost or stolen, the person in possession can't access any of the resources.
