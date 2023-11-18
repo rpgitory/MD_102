@@ -1,0 +1,12 @@
+7 Manage Device Configuration using Intune
+
+Exercise :- Manage Windows Devices using configuration profiles in Intune
+
+Learning Outcomes
+	- Clear out the Microsoft 365 Subcription
+	- Create a user account using Microsoft Intune Admin Center
+	- Create an Intune Configuration Profile Policy
+	- Apply and verify an Intune Configuration Profile Policy
+
+	: Microsoft Intune can be used to remotely manage devices by using configuration profiles.
+	: Speicific profiles can be applied to prevent users from accessing specific functionalities on a device, for example, accessing the settings of a windows device

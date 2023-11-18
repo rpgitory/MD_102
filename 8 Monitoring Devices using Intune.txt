@@ -1,0 +1,12 @@
+8 Monitoring Devices using Intune
+
+Exercise :- Monitoring Entra Joined Devices using Intune
+
+Learning Outcomes 
+	- Clear out the Microsoft 365 subcription 
+	- Enroll a device into Microsoft Intune 
+	- Create a health Monitoring policy using Microsoft Intune
+	- Verify the application of the health Monitoring Policy
+
+Microsoft Intune
+	: It can monitor the health devices enrolled in Microsoft Entra

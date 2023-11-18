@@ -1,0 +1,9 @@
+9 Managing Device Updates Using Intune
+
+Exercise :- Create and Implement a windows update policy with Microsoft Intune
+
+Learning Outcomes
+	- Clear out the Microsoft 365 Subcription
+	- Enroll a device Microsoft Intune
+	- Create a implement a windows update policy using Microsoft intune
+
