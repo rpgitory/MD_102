@@ -1,0 +1,10 @@
+11 Implement App Protection and Configuration policies
+
+Exercise :- Create and Deploy an Application Protection Policy using Microsoft Intune
+
+Learning Outcomes
+	- Clear out Microsoft 365 subcriotion
+	- Enroll a Device in Microsoft Intune
+	- Create a Group in the Microsoft Intune Admin Center
+	- Create an Application Protection Policy using Microsoft Intune
+	- Verify the Deployment of the App Protection Policy

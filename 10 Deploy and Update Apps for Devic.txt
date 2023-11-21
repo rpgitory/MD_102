@@ -1,0 +1,9 @@
+10 Deploy and Update Apps for Devices
+
+Exercise :- Deloy Application using Microsoft Intune
+
+Learning Outcomes
+	- Clear out Microsoft 365 subcriotion
+	- Enroll a Device in Microsoft Intune
+	- Deploy Applications using Microsoft Intune
+	- Verify the deployment of the App Policy
